@@ -82,7 +82,7 @@ galleryForm.addEventListener('submit',  (event) => {
 
 fillGallery();
 
-        // ASSIGNMENT
+        // ASSIGNMENT SOLUTION
     // THE CLICK EVENT TO REMOVE THE FIRST IMAGE ANYTIME IT IS CLICKED
 const removeImage = document.querySelector(".removeImageBtnWrapper")
 
