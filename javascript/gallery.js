@@ -82,8 +82,8 @@ galleryForm.addEventListener('submit',  (event) => {
 
 fillGallery();
 
-        // ASSIGNMENT SOLUTION
-    // THE CLICK EVENT TO REMOVE THE FIRST IMAGE ANYTIME IT IS CLICKED
+// mOJISOLA ASSIGNMENT SOLUTION 
+// THE CLICK EVENT TO REMOVE THE FIRST IMAGE ANYTIME IT IS CLICKED
 const removeImage = document.querySelector(".removeImageBtnWrapper")
 
 removeImage.addEventListener('click', () => {   
@@ -93,3 +93,9 @@ removeImage.addEventListener('click', () => {
     gallery.removeChild(firstListItem);
   }
 })
+
+
+
+
+
+
